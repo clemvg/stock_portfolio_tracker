@@ -1,0 +1,3 @@
+"""
+Local SQL database
+"""
