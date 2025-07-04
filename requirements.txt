@@ -1,6 +1,26 @@
+# Core dependencies
 streamlit>=1.28.0
 pandas>=2.0.0
 numpy>=1.24.0
-yfinance>=0.2.0
+yfinance>=0.2.18
 requests>=2.31.0
-python-dotenv>=1.0.0 
+python-dotenv>=1.0.0
+
+# Database
+# sqlite3  # Built-in with Python
+
+# Web scraping and parsing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+urllib3>=2.0.0
+
+# Data visualization
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Additional utilities
+typing-extensions>=4.0.0
+
+# MCP (Model Context Protocol) dependencies
+mcp>=1.0.0

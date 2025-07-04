@@ -1,0 +1,3 @@
+rempove unecessary allocation 
+keep very basic
+Styler.applymap has been deprecated. Use Styler.map instead.
