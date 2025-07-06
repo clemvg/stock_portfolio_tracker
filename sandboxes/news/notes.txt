@@ -1,2 +1,6 @@
 not retrieving articles!! or look api online 
+look maybe at other apis 
 implement PYTHON MCP 
+
+FILTER ON SOURCE/PUBLISHER, RELEVANCY, TOPIC/QUESTION, DATES (see params)
+Use powerful search and filter options (see doc main page)

@@ -2,6 +2,7 @@
 """
 Google News Sandbox for Portfolio Tracker
 Test news retrieval and sentiment analysis for stocks
+Deprecated: Google News is not working anymore
 """
 
 import requests

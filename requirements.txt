@@ -5,6 +5,8 @@ numpy>=1.24.0
 yfinance>=0.2.18
 requests>=2.31.0
 python-dotenv>=1.0.0
+jinja2>=3.1.0
+newsapi-python>=0.2.6
 
 # Database
 # sqlite3  # Built-in with Python
